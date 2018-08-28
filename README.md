@@ -1,0 +1,2 @@
+# cppMiniDevelopment
+cpp libraries
